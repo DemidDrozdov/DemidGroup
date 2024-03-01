@@ -8,4 +8,5 @@ int main()
 	cout << endl << "<^=^>";
 	int x;
 	return 0;
+	//error
 }
