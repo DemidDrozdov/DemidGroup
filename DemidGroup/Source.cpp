@@ -6,5 +6,6 @@ int main()
 {
 	cout << "Hello world!";
 	cout << endl << "<^=^>";
+	int x;
 	return 0;
 }
